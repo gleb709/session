@@ -1,0 +1,10 @@
+by/innowisegroup/session/entity/Author.java
+ by.innowisegroup.session.entity.Author
+by/innowisegroup/session/entity/Book.java
+ by.innowisegroup.session.entity.Book
+by/innowisegroup/session/entity/Farm.java
+ by.innowisegroup.session.entity.Farm
+by/innowisegroup/session/session/MySessionFactory.java
+ by.innowisegroup.session.session.MySessionFactory
+by/innowisegroup/session/Main.java
+ by.innowisegroup.session.Main

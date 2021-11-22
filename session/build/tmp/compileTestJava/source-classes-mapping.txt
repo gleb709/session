@@ -1,0 +1,2 @@
+by/innowisegroup/session/session/MySessionFactoryTest.java
+ by.innowisegroup.session.session.MySessionFactoryTest
